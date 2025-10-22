@@ -1,13 +1,13 @@
 # Metadata
 
 ## Directions to Access Data
-The file is accessible on this GitHub. 
+The data file (Table 01.01.xlsx) is accessible on this GitHub in the Data folder. 
 
 ## Data Summary
 This dataset originally had 13 columns and 640 rows. We ended up narrowing the final dataset to only include 5 columns and 630 rows. We got rid of the few rows that held NAs. We only kept the Date column, the exploratory variables (Total Renewable Energy Production, Total Renewable Energy Consumption), and the response variables (Total Fossil Fuels Production, Total Fossil Fuels Consumption)
 
 ## Provenance
-Provenance: This dataset is accessible from the U.S. Energy Information Administration (EIA) Monthly Energy Review (MER) on the site: https://www.eia.gov/totalenergy/data/monthly/index.php. At the top of the page, there is a link that says: "Download all tables ZIP". From this downloaded zip file, you will only need to keep Table 01.01. **Note**: This file is different than Table 1 in the Energy Overview at the bottom. Make sure you download the right file.
+Provenance: This dataset is accessible from the U.S. Energy Information Administration (EIA) Monthly Energy Review (MER) on the site: https://www.eia.gov/totalenergy/data/monthly/index.php. At the top of the page, there is a link that says: "Download all tables ZIP". From this downloaded zip file, you will only need to keep the XLSX file called Table 01.01. **Note**: This file is different than Table 1 in the Energy Overview at the bottom. If you are downloading directly from the source, make sure you download the right file.
 
 ## License
 Anyone can use this data set as long as the data is cited somewhere in the report.
