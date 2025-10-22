@@ -24,4 +24,5 @@ Anyone can use this data set as long as the data is cited somewhere in the repor
 
 
 ## Exploratory Plots
-
+<img width="4500" height="1800" alt="line_plot (2)" src="https://github.com/user-attachments/assets/c7023290-1af6-4c7a-9116-870db78a76a6" />
+<img width="1500" height="600" alt="boxplot" src="https://github.com/user-attachments/assets/cb3468c6-d234-4100-9620-51e3cba7ee29" />
