@@ -38,4 +38,13 @@ We used Google Colab (Python) for this project. The packages we installed to use
 
 A small variation may occur due to randomness in the train/test splitting. 
 
+# References
+
+[1] M. George, “Handling Missing Data in Time Series: 5 Methods,” Growth-onomics, April 2, 2025. [Online]. Available: https://growth-onomics.com/handling-missing-data-in-time-series-5-methods/. [Accessed: Oct. 17, 2025]
+
+[2] “Data Normalization with Pandas”, GeeksforGeeks, July 23, 2025. [Online]. Available:
+https://www.geeksforgeeks.org/python/data-normalization-with-pandas/. [Accessed: Oct. 17, 2025]
+[3] “Common Evaluation Metrics (MAE, MSE, RMSE, MAPE)”, ApX, [Online]. Available: https://apxml.com/courses/time-series-analysis-forecasting/chapter-6-model-evaluation-selection/evaluation-metrics-mae-mse-rmse?utm_source=chatgpt.com [Accessed: Oct 24, 2025]
+
+
 
