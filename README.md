@@ -10,7 +10,7 @@ We used Google Colab (Python) for this project. The packages we installed to use
 ===========================
 
 # Section 2
-
+'''bash
 ├── Data
 │   ├── Data_Overview.md
     ├── Table 01.01.xlsx
@@ -21,6 +21,7 @@ We used Google Colab (Python) for this project. The packages we installed to use
 ├── README.md
 ├── Scripts
 │   ├── Predicting_FF_Cons/Prod.ipynb
+'''
 
 # Section 3
 1. The first step to reproduce our project is to download the data. The csv file is in the Data folder, "Table.01.01.csv"
