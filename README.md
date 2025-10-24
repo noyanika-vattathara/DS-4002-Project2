@@ -5,11 +5,22 @@ Predicting Fossil Fuel Consumption and Production. Class Project #2
 This repository has 5 folders. The README.md file contains all of the information someone would need to replicate our project. The LICENSE file talks about the licensing and how to cite our project. The Scripts folder contains the code to show how we got our results. The Data file tells you about the data, as well as contains the CSV file for our data. Lastly, the output file shows the output of our VARIMAX and XGBoost models. 
 
 # Section 1
-We used Google Colab (Python) for this project. The packages we installed to use our code were pandas, _____________. Our project was performed on Windows laptops. 
+We used Google Colab (Python) for this project. The packages we installed to use our code were pandas, matplotlib, numpy, sklearn, statsmodels, and xgboost. Our project was performed on Windows laptops. 
 
 ===========================
 
 # Section 2
+
+├── Data
+│   ├── Data_Overview.md
+    ├── Table 01.01.xlsx
+    
+├── LICENSE
+├── Output
+│   ├── Output.md
+├── README.md
+├── Scripts
+│   ├── Predicting_FF_Cons/Prod.ipynb
 
 # Section 3
 1. The first step to reproduce our project is to download the data. The csv file is in the Data folder, "Table.01.01.csv"
